@@ -1,0 +1,28 @@
+{
+  "name": "pinned-plus-plus",
+  "version": "1.0.0",
+  "description": "A small webapp that lets users automate pinned posts in their facebook groups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremyjpark/pinned-plus-plus"
+  },
+  "keywords": [
+    "facebook",
+    "pinned",
+    "post",
+    "carousel",
+    "rotate",
+    "improved"
+  ],
+  "author": "Jeremy Park",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "mongod": "^1.3.0"
+  }
+}
